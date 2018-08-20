@@ -36,12 +36,10 @@ run from Project Root Directory
   
   c. Improve Reporting mechanism using extent Reports or Allure Reports
   
-  d. Add Automated a11y Test suite
+  d. Add Automated Visual Test Suite covering Critical test Scenarios
   
-  e. Add Automated Visual Test Suite covering Critical test Scenarios
+  e. Add Automated Security tests using Selenium + ZAP 
   
-  f. Add Automated Security tests using Selenium + ZAP 
-  
-  g. Add Automated layout testing using Galen (Assuming UX Specs are defined)
+  f. Add Automated layout testing using Galen (Assuming UX Specs are defined)
   
  
